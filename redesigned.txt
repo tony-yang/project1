@@ -2,4 +2,4 @@ My very first of text
 
 My 2nd line of text BUG FIX
 
-My Third line of text
+My Third line of text FEATURE
